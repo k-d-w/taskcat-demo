@@ -7,6 +7,7 @@ global:
     - us-east-2
     - us-west-1
     - us-west-2
+  reporting: true
 tests:
   # The following test will test in both us-west-1 and us-east-1 using ec2.yaml as inputs
   scenario-1:
