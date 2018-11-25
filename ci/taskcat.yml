@@ -1,6 +1,6 @@
 global:
   owner: fss18@yahoo.com
-  qsname: cfn_taskcat_demo
+  qsname: cfn-taskcat-demo
   #s3bucket: projectx-templates <- (Optional) Only needed if you want to use a specific bucket
   regions:
     - us-east-1
