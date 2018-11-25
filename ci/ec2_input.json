@@ -10,9 +10,5 @@
   {
     "ParameterKey": "SSHLocation",
     "ParameterValue": "0.0.0.0/0"
-  },
-  {
-    "ParameterKey": "LatestAmiId",
-    "ParameterValue": "ami-09479453c5cde9639"
   }  
 ]
