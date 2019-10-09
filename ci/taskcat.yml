@@ -1,6 +1,6 @@
 global:
-  owner: fss18@yahoo.com
-  qsname: cfn-taskcat-demo
+  owner: noreply@dxc.com
+  qsname: taskcat-demo
   #s3bucket: projectx-templates <- (Optional) Only needed if you want to use a specific bucket
   regions:
     - us-east-1
@@ -9,7 +9,7 @@ global:
     - us-west-2
   reporting: true
 tests:
-  # The following test will test in both us-west-1 and us-east-1 using ec2.yaml as inputs
+  # The following test will test in us-east-1 using ec2.yaml as inputs
   scenario-1:
     regions:
       - us-east-1
